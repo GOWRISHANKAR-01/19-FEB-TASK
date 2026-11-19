@@ -3,4 +3,8 @@ hello
 hey
 ho
 he
+<<<<<<< HEAD
 demo2
+=======
+demo
+>>>>>>> 0df3067b71ca823e00ea9970f5795b6e2ace0658
